@@ -1,6 +1,6 @@
 ## 🟢 SECTION 1 — Orient Yourself (10 marks)
 
-> ** Task 1 **: Print your current directory, your username, and full OS and kernel details — three separate commands. What does each command tell you? Why does a DevSecOps engineer run these three things first when SSHing into an unknown server — especially regarding kernel CVEs?
+### ** Task 1 **: Print your current directory, your username, and full OS and kernel details — three separate commands. What does each command tell you? Why does a DevSecOps engineer run these three things first when SSHing into an unknown server — especially regarding kernel CVEs?
 
 ** Used Command : **
 
